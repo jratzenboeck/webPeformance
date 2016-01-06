@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{Chang_2008}
+Patrick Chang.
+\newblock Fundamentals of http.
+
+\bibitem{GoogleDev}
+Ilya Grigorik.
+
+\bibitem{Grigorik_2013}
+Ilya Grigorik.
+\newblock {\em High-Performance Browser Networking}.
+\newblock O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA
+  95472, Sep 2013.
+
+\bibitem{Killelea_2002}
+Patrick Killelea.
+\newblock {\em Web Performance Tuning}, volume~2.
+\newblock O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA
+  95472, Mar 2002.
+
+\bibitem{NewRelic_Load}
+New Relic.
+
+\end{thebibliography}

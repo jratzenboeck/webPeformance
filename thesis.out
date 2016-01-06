@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter.8}{1 Introduction}{}% 1
+\BOOKMARK [1][-]{section.9}{1.1 Motivation}{chapter.8}% 2
+\BOOKMARK [1][-]{section.10}{1.2 What is Tractive?}{chapter.8}% 3
+\BOOKMARK [0][-]{chapter.11}{2 Web Performance Metrics}{}% 4
+\BOOKMARK [1][-]{section.13}{2.1 Latency}{chapter.11}% 5
+\BOOKMARK [1][-]{section.15}{2.2 Throughput}{chapter.11}% 6
+\BOOKMARK [1][-]{section.16}{2.3 Fundamental Protocols}{chapter.11}% 7
+\BOOKMARK [2][-]{subsection.17}{2.3.1 HTTP \(Hypertext Transfer Protocol\)}{section.16}% 8
+\BOOKMARK [2][-]{subsection.18}{2.3.2 TCP \(Transmission Control Protocol\)}{section.16}% 9
+\BOOKMARK [1][-]{section.19}{2.4 Utilization and Efficiency}{chapter.11}% 10
+\BOOKMARK [1][-]{section.20}{2.5 Processing Time on Server}{chapter.11}% 11
+\BOOKMARK [1][-]{section.21}{2.6 Browser Processing}{chapter.11}% 12
+\BOOKMARK [2][-]{subsection.22}{2.6.1 DOM Processing}{section.21}% 13
+\BOOKMARK [2][-]{subsection.23}{2.6.2 Page Rendering}{section.21}% 14
+\BOOKMARK [0][-]{chapter.24}{3 Architecture of the system under test}{}% 15
+\BOOKMARK [1][-]{section.25}{3.1 Infrastructure}{chapter.24}% 16
+\BOOKMARK [1][-]{section.27}{3.2 Relevant Services}{chapter.24}% 17
+\BOOKMARK [0][-]{chapter.28}{4 Measurements}{}% 18
+\BOOKMARK [1][-]{section.29}{4.1 Comparing HTTP and HTTPS requests}{chapter.28}% 19
+\BOOKMARK [1][-]{section.30}{4.2 Measuring with Apache Benchmark}{chapter.28}% 20
+\BOOKMARK [1][-]{section.31}{4.3 Measure Browser Processing}{chapter.28}% 21
+\BOOKMARK [0][-]{chapter.32}{5 Suggested Improvements}{}% 22
+\BOOKMARK [1][-]{section.33}{5.1 Content Delivery Networks \(CDN\)}{chapter.32}% 23
+\BOOKMARK [1][-]{section.34}{5.2 Loading of Assets and Caching}{chapter.32}% 24
+\BOOKMARK [1][-]{section.35}{5.3 Compression}{chapter.32}% 25
+\BOOKMARK [1][-]{section.36}{5.4 Language and Redirection}{chapter.32}% 26
+\BOOKMARK [1][-]{section.37}{5.5 Connection Reusing}{chapter.32}% 27
+\BOOKMARK [0][-]{chapter.38}{6 Conclusions and Future Work}{}% 28
+\BOOKMARK [0][-]{chapter*.39}{Bibliography}{}% 29
