@@ -5,26 +5,23 @@
 \BOOKMARK [0][-]{chapter.12}{2 Web Performance Metrics}{}% 5
 \BOOKMARK [1][-]{section.14}{2.1 Latency}{chapter.12}% 6
 \BOOKMARK [1][-]{section.16}{2.2 Throughput}{chapter.12}% 7
-\BOOKMARK [1][-]{section.17}{2.3 Fundamental Protocols}{chapter.12}% 8
-\BOOKMARK [2][-]{subsection.18}{2.3.1 HTTP \(Hypertext Transfer Protocol\)}{section.17}% 9
-\BOOKMARK [2][-]{subsection.19}{2.3.2 TCP \(Transmission Control Protocol\)}{section.17}% 10
-\BOOKMARK [1][-]{section.20}{2.4 Utilization and Efficiency}{chapter.12}% 11
-\BOOKMARK [1][-]{section.21}{2.5 Processing Time on Server}{chapter.12}% 12
-\BOOKMARK [1][-]{section.22}{2.6 Browser Processing}{chapter.12}% 13
-\BOOKMARK [2][-]{subsection.23}{2.6.1 DOM Processing}{section.22}% 14
-\BOOKMARK [2][-]{subsection.24}{2.6.2 Page Rendering}{section.22}% 15
-\BOOKMARK [0][-]{chapter.25}{3 Architecture of the system under test}{}% 16
-\BOOKMARK [1][-]{section.26}{3.1 Infrastructure}{chapter.25}% 17
-\BOOKMARK [1][-]{section.28}{3.2 Relevant Services}{chapter.25}% 18
-\BOOKMARK [0][-]{chapter.29}{4 Measurements}{}% 19
-\BOOKMARK [1][-]{section.30}{4.1 Comparing HTTP and HTTPS requests}{chapter.29}% 20
-\BOOKMARK [1][-]{section.31}{4.2 Measuring with Apache Benchmark}{chapter.29}% 21
-\BOOKMARK [1][-]{section.32}{4.3 Measure Browser Processing}{chapter.29}% 22
-\BOOKMARK [0][-]{chapter.33}{5 Suggested Improvements}{}% 23
-\BOOKMARK [1][-]{section.34}{5.1 Content Delivery Networks \(CDN\)}{chapter.33}% 24
-\BOOKMARK [1][-]{section.35}{5.2 Loading of Assets and Caching}{chapter.33}% 25
-\BOOKMARK [1][-]{section.36}{5.3 Compression}{chapter.33}% 26
-\BOOKMARK [1][-]{section.37}{5.4 Language and Redirection}{chapter.33}% 27
-\BOOKMARK [1][-]{section.38}{5.5 Connection Reusing}{chapter.33}% 28
-\BOOKMARK [0][-]{chapter.39}{6 Conclusions and Future Work}{}% 29
-\BOOKMARK [0][-]{chapter*.40}{Bibliography}{}% 30
+\BOOKMARK [1][-]{section.17}{2.3 Utilization and Efficiency}{chapter.12}% 8
+\BOOKMARK [1][-]{section.18}{2.4 Processing Time on Server}{chapter.12}% 9
+\BOOKMARK [1][-]{section.19}{2.5 Browser Processing}{chapter.12}% 10
+\BOOKMARK [2][-]{subsection.20}{2.5.1 DOM Processing}{section.19}% 11
+\BOOKMARK [2][-]{subsection.21}{2.5.2 Page Rendering}{section.19}% 12
+\BOOKMARK [0][-]{chapter.22}{3 Architecture of the system under test}{}% 13
+\BOOKMARK [1][-]{section.23}{3.1 Infrastructure}{chapter.22}% 14
+\BOOKMARK [1][-]{section.25}{3.2 Relevant Services}{chapter.22}% 15
+\BOOKMARK [0][-]{chapter.26}{4 Measurements}{}% 16
+\BOOKMARK [1][-]{section.27}{4.1 Comparing HTTP and HTTPS requests}{chapter.26}% 17
+\BOOKMARK [1][-]{section.28}{4.2 Measuring with Apache Benchmark}{chapter.26}% 18
+\BOOKMARK [1][-]{section.29}{4.3 Measure Browser Processing}{chapter.26}% 19
+\BOOKMARK [0][-]{chapter.30}{5 Suggested Improvements}{}% 20
+\BOOKMARK [1][-]{section.31}{5.1 Content Delivery Networks \(CDN\)}{chapter.30}% 21
+\BOOKMARK [1][-]{section.32}{5.2 Loading of Assets and Caching}{chapter.30}% 22
+\BOOKMARK [1][-]{section.33}{5.3 Compression}{chapter.30}% 23
+\BOOKMARK [1][-]{section.34}{5.4 Language and Redirection}{chapter.30}% 24
+\BOOKMARK [1][-]{section.35}{5.5 Connection Reusing}{chapter.30}% 25
+\BOOKMARK [0][-]{chapter.36}{6 Conclusions and Future Work}{}% 26
+\BOOKMARK [0][-]{chapter*.37}{Bibliography}{}% 27

@@ -6,44 +6,44 @@ A level-1 auxiliary file: structure/acknowledgment.aux
 A level-1 auxiliary file: structure/abstract.aux
 The style file: plain.bst
 Database file #1: literature.bib
-You've used 6 entries,
+You've used 5 entries,
             2118 wiz_defined-function locations,
-            529 strings with 4607 characters,
-and the built_in function-call counts, 1472 in all, are:
-= -- 130
-> -- 48
+            525 strings with 4554 characters,
+and the built_in function-call counts, 1279 in all, are:
+= -- 114
+> -- 41
 < -- 2
-+ -- 20
-- -- 14
-* -- 63
-:= -- 236
-add.period$ -- 14
-call.type$ -- 6
-change.case$ -- 20
++ -- 17
+- -- 12
+* -- 58
+:= -- 205
+add.period$ -- 12
+call.type$ -- 5
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 68
-empty$ -- 152
-format.name$ -- 14
-if$ -- 326
+cite$ -- 5
+duplicate$ -- 61
+empty$ -- 130
+format.name$ -- 12
+if$ -- 284
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 5
 missing$ -- 5
-newline$ -- 28
-num.names$ -- 12
-pop$ -- 46
+newline$ -- 24
+num.names$ -- 10
+pop$ -- 38
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 15
 quote$ -- 0
-skip$ -- 67
+skip$ -- 57
 stack$ -- 0
-substring$ -- 58
-swap$ -- 17
+substring$ -- 53
+swap$ -- 16
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 16
 warning$ -- 0
-while$ -- 14
-width$ -- 7
-write$ -- 52
+while$ -- 12
+width$ -- 6
+write$ -- 45

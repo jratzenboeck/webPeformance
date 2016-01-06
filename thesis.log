@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.8.30)  6 JAN 2016 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.8.30)  6 JAN 2016 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,7 +1101,7 @@ LaTeX Info: Redefining \nameref on input line 16.
 
 \c@lstlisting=\count144
 
-<structure/cover/cover.pdf, id=127, 597.50829pt x 845.0471pt>
+<structure/cover/cover.pdf, id=115, 597.50829pt x 845.0471pt>
 File: structure/cover/cover.pdf Graphic file (type pdf)
 
 <use structure/cover/cover.pdf>
@@ -1112,7 +1112,7 @@ File: structure/cover/cover.pdf Graphic file (type pdf)
 Package pdftex.def Info: structure/cover/cover.pdf used on input line 20.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<structure/cover/cover.pdf, id=130, page=1, 597.50829pt x 845.0471pt>
+<structure/cover/cover.pdf, id=118, page=1, 597.50829pt x 845.0471pt>
 File: structure/cover/cover.pdf Graphic file (type pdf)
 
 <use structure/cover/cover.pdf, page 1>
@@ -1184,25 +1184,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]) [4
 
 ]
-(./structure/indices.tex (./thesis.toc [5
-
-
-])
+(./structure/indices.tex (./thesis.toc)
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
  (./structure/abbreviations.tex)
-[6] (./thesis.lof)
+[5
+
+
+] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [7
+ [6
 
 ] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
-) [8
+) [7
 
 ] (./chapters/intro.tex
 Chapter 1.
@@ -1233,7 +1233,7 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10.95> not available
  [2])
 (./chapters/metrics.tex [3]
 Chapter 2.
-<imgs/timeline.png, id=276, 1445.4pt x 923.45pt>
+<imgs/timeline.png, id=257, 1445.4pt x 923.45pt>
 File: imgs/timeline.png Graphic file (type png)
  <use imgs/timeline.png>
 Package pdftex.def Info: imgs/timeline.png used on input line 6.
@@ -1243,30 +1243,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4
 
- <./imgs/timeline.png>] [5] [6] [7] [8] [9]) [10] (./chapters/architecture.tex 
-[11]
-Chapter 3.
-[12
+ <./imgs/timeline.png>] [5] [6]
+Underfull \vbox (badness 7168) has occurred while \output is active []
 
-] <imgs/architecture.png, id=339, 1169.36874pt x 508.90125pt>
+ [7])
+[8] (./chapters/architecture.tex [9]
+Chapter 3.
+[10
+
+] <imgs/architecture.png, id=306, 1169.36874pt x 508.90125pt>
 File: imgs/architecture.png Graphic file (type png)
 
 <use imgs/architecture.png>
 Package pdftex.def Info: imgs/architecture.png used on input line 18.
 (pdftex.def)             Requested size: 412.56496pt x 179.5469pt.
-) (./chapters/measurements.tex [13 <./imgs/architecture.png (PNG copy)>] [14]
+) (./chapters/measurements.tex [11 <./imgs/architecture.png (PNG copy)>] [12]
 Chapter 4.
-) (./chapters/improvements.tex [15
+) (./chapters/improvements.tex [13
 
 ]
 Chapter 5.
-) (./chapters/conclusion.tex [16
+) (./chapters/conclusion.tex [14
 
 ]
 Chapter 6.
-) (./structure/bibliography.tex (./thesis.bbl [17
+) (./structure/bibliography.tex (./thesis.bbl [15
 
-])) [18
+])) [16
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
@@ -1277,34 +1280,32 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 68E616A3BED11DB765FD79E07C48147C;2102.
+(rerunfilecheck)             Checksum: 51D3BEEC193018D545D718B60B55DB53;1845.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 23475 strings out of 493090
- 454168 string characters out of 6134868
- 604811 words of memory out of 5000000
- 26400 multiletter control sequences out of 15000+600000
+ 23464 strings out of 493090
+ 454042 string characters out of 6134868
+ 603778 words of memory out of 5000000
+ 26396 multiletter control sequences out of 15000+600000
  32226 words of font info for 62 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 66i,18n,67p,1554b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,18n,67p,1554b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis.pdf (27 pages, 584618 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on thesis.pdf (24 pages, 561139 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
- 362 compressed objects within 4 object streams
- 74 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 
