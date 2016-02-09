@@ -67,7 +67,8 @@ Although these metrics are not directly connected to the performance a user expe
 \section{Processing Time on Server}
 This is the time between the arrival of the request on the server and the point where the server starts to send the response. For the performance of a web application it is an important metric as it gives information how fast the server fetches and builds the web resource requested. Since modern websites don't contain only pure HTML code usually much more work has to be done to generate the outgoing response file. This includes algorithms to be executed, working with databases in the backend, pre-processing CSS and Javascript extensible languages, loading of images, generating HTML and so forth. Interactive web applications which work with bigger datasets can lack of performance pretty fast if you don't pay attention on using appropriate software technologies or doing cost-intensive work to fulfil interactive tasks of a user. 
 
-\section{Browser Processing}
+\section{Browser Processing Time}
+\label{sec:browserproc}
 
 When the first bytes have arrived at the client it's time for the browser to start it's work. Obviously it is important for good user experience that the time span between a request and the arrival of the first byte should be as minimal as possible because during this time nothing can happen inside the browser. Similar to the networking and processing time there is potential to save time and improve user experience when making the website visible. 
 

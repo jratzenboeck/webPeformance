@@ -5,5 +5,14 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Illustration of infrastructure and platform (simplified with only two application and data hosts)\relax }}{11}{figure.caption.24}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Five sequential requests to https://tractive.com/en/apps\relax }}{17}{figure.caption.38}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Five sequential requests to https://tractive.com/en/trackers\relax }}{18}{figure.caption.39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Requesting https://tractive.com/en with 1000 requests - 100 concurrently\relax }}{18}{figure.caption.41}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Distribution of processed requests\relax }}{19}{figure.caption.42}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparing mean values for increasing concurrency resp. amount of requests\relax }}{19}{figure.caption.43}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Web Performance Monitoring with New Relic\relax }}{20}{figure.caption.44}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Conistency throughout the requests\relax }}{21}{figure.caption.52}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Comparing 100 requests - 10 concurrently during day and night (10:25am, 11:15pm)\relax }}{22}{figure.caption.54}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Waterfall view of https://tractive.com - Request from Sydney, Australia\relax }}{23}{figure.caption.56}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

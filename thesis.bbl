@@ -1,5 +1,9 @@
 \begin{thebibliography}{1}
 
+\bibitem{Chang_2008}
+Patrick Chang.
+\newblock Fundamentals of http.
+
 \bibitem{GoogleDev}
 Ilya Grigorik.
 
@@ -9,11 +13,21 @@ Ilya Grigorik.
 \newblock O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA
   95472, Sep 2013.
 
+\bibitem{Grigorik_2015}
+Ilya Grigorik.
+\newblock {\em HTTP/2: A New Excerpt from High Performance Browser Networking}.
+\newblock O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA
+  95472, May 2015.
+
 \bibitem{Killelea_2002}
 Patrick Killelea.
 \newblock {\em Web Performance Tuning}, volume~2.
 \newblock O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA
   95472, Mar 2002.
+
+\bibitem{Amazon_2015}
+Sajee Mathew.
+\newblock Overview of amazon web services, 2015.
 
 \bibitem{menasce2000scaling}
 Daniel Menasce et~al.
@@ -24,5 +38,11 @@ Daniel Menasce et~al.
 
 \bibitem{NewRelic_Load}
 New Relic.
+
+\bibitem{Google_2009}
+Harsha V.~Madhyastha Rupa~Krishnan et~al.
+\newblock Imc-09.
+\newblock In {\em Moving Beyond End-to-End Path Information to Optimize CDN
+  Performance}, 2009.
 
 \end{thebibliography}

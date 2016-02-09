@@ -14,15 +14,23 @@
 \contentsline {chapter}{\numberline {3}Architecture of the system under test}{10}{chapter.22}
 \contentsline {section}{\numberline {3.1}Infrastructure}{10}{section.23}
 \contentsline {section}{\numberline {3.2}Relevant Services}{12}{section.25}
-\contentsline {chapter}{\numberline {4}Measurements}{13}{chapter.26}
-\contentsline {section}{\numberline {4.1}Comparing HTTP and HTTPS requests}{13}{section.27}
-\contentsline {section}{\numberline {4.2}Measuring with Apache Benchmark}{13}{section.28}
-\contentsline {section}{\numberline {4.3}Measure Browser Processing}{13}{section.29}
-\contentsline {chapter}{\numberline {5}Suggested Improvements}{14}{chapter.30}
-\contentsline {section}{\numberline {5.1}Content Delivery Networks (CDN)}{14}{section.31}
-\contentsline {section}{\numberline {5.2}Loading of Assets and Caching}{14}{section.32}
-\contentsline {section}{\numberline {5.3}Compression}{14}{section.33}
-\contentsline {section}{\numberline {5.4}Language and Redirection}{14}{section.34}
-\contentsline {section}{\numberline {5.5}Connection Reusing}{14}{section.35}
-\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{15}{chapter.36}
-\contentsline {chapter}{\nonumberline Bibliography}{16}{chapter*.37}
+\contentsline {subsection}{\numberline {3.2.1}Petmanager-Website}{12}{subsection.26}
+\contentsline {subsection}{\numberline {3.2.2}Platform-Graph}{12}{subsection.27}
+\contentsline {subsection}{\numberline {3.2.3}Platform-Common}{13}{subsection.28}
+\contentsline {chapter}{\numberline {4}Measurements}{14}{chapter.29}
+\contentsline {section}{\numberline {4.1}Leverage of fundamental Internet Protocols}{14}{section.30}
+\contentsline {section}{\numberline {4.2}Comparing HTTP and HTTPS requests}{15}{section.31}
+\contentsline {section}{\numberline {4.3}Measuring with Apache Benchmark}{16}{section.34}
+\contentsline {subsection}{\numberline {4.3.1}Sequential requests of different pages}{17}{subsection.37}
+\contentsline {subsection}{\numberline {4.3.2}Load testing with concurrent requests}{18}{subsection.40}
+\contentsline {subsection}{\numberline {4.3.3}Consistency of performance results}{20}{subsection.45}
+\contentsline {subsection}{\numberline {4.3.4}Performance regarding daytime}{21}{subsection.53}
+\contentsline {section}{\numberline {4.4}Measure Browser Processing}{22}{section.55}
+\contentsline {section}{\numberline {4.5}Utilization measurements}{24}{section.57}
+\contentsline {chapter}{\numberline {5}Suggested Improvements}{26}{chapter.78}
+\contentsline {section}{\numberline {5.1}Content Delivery Networks (CDN)}{26}{section.79}
+\contentsline {section}{\numberline {5.2}Loading of Assets and Caching}{27}{section.85}
+\contentsline {section}{\numberline {5.3}Compression}{27}{section.86}
+\contentsline {section}{\numberline {5.4}Language and Redirection}{28}{section.87}
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{30}{chapter.104}
+\contentsline {chapter}{\nonumberline Bibliography}{32}{chapter*.105}

@@ -13,15 +13,23 @@
 \BOOKMARK [0][-]{chapter.22}{3 Architecture of the system under test}{}% 13
 \BOOKMARK [1][-]{section.23}{3.1 Infrastructure}{chapter.22}% 14
 \BOOKMARK [1][-]{section.25}{3.2 Relevant Services}{chapter.22}% 15
-\BOOKMARK [0][-]{chapter.26}{4 Measurements}{}% 16
-\BOOKMARK [1][-]{section.27}{4.1 Comparing HTTP and HTTPS requests}{chapter.26}% 17
-\BOOKMARK [1][-]{section.28}{4.2 Measuring with Apache Benchmark}{chapter.26}% 18
-\BOOKMARK [1][-]{section.29}{4.3 Measure Browser Processing}{chapter.26}% 19
-\BOOKMARK [0][-]{chapter.30}{5 Suggested Improvements}{}% 20
-\BOOKMARK [1][-]{section.31}{5.1 Content Delivery Networks \(CDN\)}{chapter.30}% 21
-\BOOKMARK [1][-]{section.32}{5.2 Loading of Assets and Caching}{chapter.30}% 22
-\BOOKMARK [1][-]{section.33}{5.3 Compression}{chapter.30}% 23
-\BOOKMARK [1][-]{section.34}{5.4 Language and Redirection}{chapter.30}% 24
-\BOOKMARK [1][-]{section.35}{5.5 Connection Reusing}{chapter.30}% 25
-\BOOKMARK [0][-]{chapter.36}{6 Conclusions and Future Work}{}% 26
-\BOOKMARK [0][-]{chapter*.37}{Bibliography}{}% 27
+\BOOKMARK [2][-]{subsection.26}{3.2.1 Petmanager-Website}{section.25}% 16
+\BOOKMARK [2][-]{subsection.27}{3.2.2 Platform-Graph}{section.25}% 17
+\BOOKMARK [2][-]{subsection.28}{3.2.3 Platform-Common}{section.25}% 18
+\BOOKMARK [0][-]{chapter.29}{4 Measurements}{}% 19
+\BOOKMARK [1][-]{section.30}{4.1 Leverage of fundamental Internet Protocols}{chapter.29}% 20
+\BOOKMARK [1][-]{section.31}{4.2 Comparing HTTP and HTTPS requests}{chapter.29}% 21
+\BOOKMARK [1][-]{section.34}{4.3 Measuring with Apache Benchmark}{chapter.29}% 22
+\BOOKMARK [2][-]{subsection.37}{4.3.1 Sequential requests of different pages}{section.34}% 23
+\BOOKMARK [2][-]{subsection.40}{4.3.2 Load testing with concurrent requests}{section.34}% 24
+\BOOKMARK [2][-]{subsection.45}{4.3.3 Consistency of performance results}{section.34}% 25
+\BOOKMARK [2][-]{subsection.53}{4.3.4 Performance regarding daytime}{section.34}% 26
+\BOOKMARK [1][-]{section.55}{4.4 Measure Browser Processing}{chapter.29}% 27
+\BOOKMARK [1][-]{section.57}{4.5 Utilization measurements}{chapter.29}% 28
+\BOOKMARK [0][-]{chapter.78}{5 Suggested Improvements}{}% 29
+\BOOKMARK [1][-]{section.79}{5.1 Content Delivery Networks \(CDN\)}{chapter.78}% 30
+\BOOKMARK [1][-]{section.85}{5.2 Loading of Assets and Caching}{chapter.78}% 31
+\BOOKMARK [1][-]{section.86}{5.3 Compression}{chapter.78}% 32
+\BOOKMARK [1][-]{section.87}{5.4 Language and Redirection}{chapter.78}% 33
+\BOOKMARK [0][-]{chapter.104}{6 Conclusion and Future Work}{}% 34
+\BOOKMARK [0][-]{chapter*.105}{Bibliography}{}% 35
