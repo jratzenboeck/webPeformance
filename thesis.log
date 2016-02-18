@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.8.30)  9 FEB 2016 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.8.30)  18 FEB 2016 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -735,7 +735,16 @@ File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
-\c@cfootnotecounter=\count131
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count131
+\float@exts=\toks34
+\float@box=\box60
+\@float@everytoks=\toks35
+\@floatcapt=\box61
+)
+\c@cfootnotecounter=\count132
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrpage2.sty
 Package: scrpage2 2015/05/06 v3.17a KOMA-Script package (page head and foot)
@@ -745,7 +754,7 @@ LaTeX Info: Redefining \pagemark on input line 174.
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen167
 \extrarowheight=\dimen168
-\NC@list=\toks34
+\NC@list=\toks36
 \extratabsurround=\skip52
 \backup@length=\skip53
 )
@@ -761,7 +770,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
-\babel@savecnt=\count132
+\babel@savecnt=\count133
 \U@D=\dimen169
 )
 \l@canadian = a dialect from \language\l@american 
@@ -770,8 +779,8 @@ File: babel.def 2014/09/25 3.9l Babel common definitions
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks35
-\inpenc@posthook=\toks36
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
@@ -1017,15 +1026,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count133
-\calc@Bcount=\count134
+\calc@Acount=\count134
+\calc@Bcount=\count135
 \calc@Adimen=\dimen170
 \calc@Bdimen=\dimen171
 \calc@Askip=\skip54
 \calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count135
+\calc@Ccount=\count136
 \calc@Cskip=\skip56
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -1037,10 +1046,10 @@ Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box60
-\AM@toc@title=\toks37
-\c@AM@survey=\count136
-\AM@templatesizebox=\box61
+\AM@pagebox=\box62
+\AM@toc@title=\toks39
+\c@AM@survey=\count137
+\AM@templatesizebox=\box63
 )
 (./customc.tex) (./structure/hyphenation.tex) (./thesis.aux
 (./structure/affidavit.aux) (./structure/acknowledgment.aux)
@@ -1064,23 +1073,24 @@ LaTeX Font Info:    ... okay on input line 16.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count137
+\scratchcounter=\count138
 \scratchdimen=\dimen174
-\scratchbox=\box62
-\nofMPsegments=\count138
-\nofMParguments=\count139
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count140
+\scratchbox=\box64
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count141
 \MPscratchDim=\dimen175
-\MPnumerator=\count141
-\makeMPintoPDFobject=\count142
-\everyMPtoPDFconversion=\toks39
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks41
 ) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box63
+\AtBeginShipoutBox=\box65
 Package hyperref Info: Link coloring ON on input line 16.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1089,7 +1099,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count143
+\c@section@level=\count144
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -1099,7 +1109,7 @@ LaTeX Info: Redefining \nameref on input line 16.
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
-\c@lstlisting=\count144
+\c@lstlisting=\count145
 
 <structure/cover/cover.pdf, id=147, 597.50829pt x 845.0471pt>
 File: structure/cover/cover.pdf Graphic file (type pdf)
@@ -1204,7 +1214,7 @@ l.28 \include{structure/acknowledgment}
 (./structure/abbreviations.tex [5]) [6
 
 ] (./thesis.lof
-Underfull \hbox (badness 1215) in paragraph at lines 15--15
+Underfull \hbox (badness 1215) in paragraph at lines 17--17
  [][] []\T1/aer/m/n/10.95 Comparing 100 re-quests - 10 con-cur-rently dur-ing d
 ay and night 
  []
@@ -1247,14 +1257,10 @@ File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
- [2]
-
-LaTeX Warning: Reference `chap:conclusions' on page 3 undefined on input line 3
-3.
-
-) (./chapters/metrics.tex [3]
+ [2])
+(./chapters/metrics.tex [3]
 Chapter 2.
-<imgs/timeline.png, id=324, 1445.4pt x 923.45pt>
+<imgs/timeline.png, id=325, 1445.4pt x 923.45pt>
 File: imgs/timeline.png Graphic file (type png)
  <use imgs/timeline.png>
 Package pdftex.def Info: imgs/timeline.png used on input line 6.
@@ -1265,23 +1271,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [4
 
  <./imgs/timeline.png>] [5] [6]
-Underfull \vbox (badness 7168) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7])
 [8] (./chapters/architecture.tex [9]
 Chapter 3.
-[10
+<imgs/tractive.png, id=371, 1443.3925pt x 752.8125pt>
+File: imgs/tractive.png Graphic file (type png)
+ <use imgs/tractive.png>
+Package pdftex.def Info: imgs/tractive.png used on input line 8.
+(pdftex.def)             Requested size: 371.30594pt x 193.65897pt.
 
-] <imgs/architecture.png, id=383, 1169.36874pt x 508.90125pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10
+
+ <./imgs/tractive.png>] <imgs/architecture.png, id=378, 1169.36874pt x 508.9012
+5pt>
 File: imgs/architecture.png Graphic file (type png)
 
 <use imgs/architecture.png>
-Package pdftex.def Info: imgs/architecture.png used on input line 18.
+Package pdftex.def Info: imgs/architecture.png used on input line 24.
 (pdftex.def)             Requested size: 412.56496pt x 179.5469pt.
- [11 <./imgs/architecture.png (PNG copy)>])
-Underfull \vbox (badness 2142) has occurred while \output is active []
-
- [12]
+ [11 <./imgs/architecture.png (PNG copy)>] [12])
 (./chapters/measurements.tex [13]
 Chapter 4.
 [14
@@ -1291,127 +1303,133 @@ Chapter 4.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [15]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 62.
 LaTeX Font Info:    Try loading font information for T1+aett on input line 62.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 ) [16]
-<imgs/seq_req_apps.png, id=423, 431.92618pt x 269.88329pt>
+Underfull \hbox (badness 10000) in paragraph at lines 69--73
+
+ []
+
+<imgs/seq_req_apps.png, id=407, 431.92618pt x 269.88329pt>
 File: imgs/seq_req_apps.png Graphic file (type png)
 
 <use imgs/seq_req_apps.png>
-Package pdftex.def Info: imgs/seq_req_apps.png used on input line 79.
+Package pdftex.def Info: imgs/seq_req_apps.png used on input line 83.
 (pdftex.def)             Requested size: 371.30594pt x 232.01273pt.
 
-<imgs/seq_req_trackers.png, id=424, 431.92618pt x 248.42813pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imgs/seq_req_trackers.png, id=408, 431.92618pt x 248.42813pt>
 File: imgs/seq_req_trackers.png Graphic file (type png)
 
 <use imgs/seq_req_trackers.png>
-Package pdftex.def Info: imgs/seq_req_trackers.png used on input line 85.
+Package pdftex.def Info: imgs/seq_req_trackers.png used on input line 89.
 (pdftex.def)             Requested size: 371.30594pt x 213.5682pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17 <./imgs/seq_req_apps.png (PNG copy)>]
-<imgs/con_req100.png, id=431, 425.71547pt x 238.26515pt>
+[17] <imgs/con_req100.png, id=419, 425.71547pt x 238.26515pt>
 File: imgs/con_req100.png Graphic file (type png)
 
 <use imgs/con_req100.png>
-Package pdftex.def Info: imgs/con_req100.png used on input line 96.
+Package pdftex.def Info: imgs/con_req100.png used on input line 100.
 (pdftex.def)             Requested size: 371.30594pt x 207.82344pt.
 
-<imgs/dist_con100.png, id=432, 357.96234pt x 208.34087pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imgs/dist_con100.png, id=420, 357.96234pt x 208.34087pt>
 File: imgs/dist_con100.png Graphic file (type png)
 
 <use imgs/dist_con100.png>
-Package pdftex.def Info: imgs/dist_con100.png used on input line 102.
+Package pdftex.def Info: imgs/dist_con100.png used on input line 106.
 (pdftex.def)             Requested size: 371.30594pt x 216.1194pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imgs/comparison_mean_values.png, id=433, 406.51875pt x 229.79602pt>
+<imgs/comparison_mean_values.png, id=421, 406.51875pt x 229.79602pt>
 File: imgs/comparison_mean_values.png Graphic file (type png)
 
 <use imgs/comparison_mean_values.png>
-Package pdftex.def Info: imgs/comparison_mean_values.png used on input line 108
+Package pdftex.def Info: imgs/comparison_mean_values.png used on input line 112
 .
 (pdftex.def)             Requested size: 371.30594pt x 209.90012pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18 <./imgs/seq_req_trackers.png (PNG copy)> <./imgs/con_req100.png (PNG copy)>
-]
-Underfull \vbox (badness 1394) has occurred while \output is active []
-
- [19 <./imgs/dist_con100.png (PNG copy)> <./imgs/comparison_mean_values.png (PN
-G copy)>]
-<imgs/newrelic_load.png, id=446, 820.06375pt x 368.37625pt>
+[18 <./imgs/seq_req_apps.png (PNG copy)>]
+<imgs/newrelic_load.png, id=428, 820.06375pt x 368.37625pt>
 File: imgs/newrelic_load.png Graphic file (type png)
 
 <use imgs/newrelic_load.png>
-Package pdftex.def Info: imgs/newrelic_load.png used on input line 117.
+Package pdftex.def Info: imgs/newrelic_load.png used on input line 121.
 (pdftex.def)             Requested size: 371.30594pt x 166.7964pt.
 
 
-LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 127.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imgs/consistency.png, id=447, 455.07515pt x 256.33266pt>
+
+LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
+(Font)              using `T1/aett/m/n' instead on input line 131.
+
+<imgs/consistency.png, id=429, 455.07515pt x 256.33266pt>
 File: imgs/consistency.png Graphic file (type png)
 
 <use imgs/consistency.png>
-Package pdftex.def Info: imgs/consistency.png used on input line 138.
+Package pdftex.def Info: imgs/consistency.png used on input line 142.
 (pdftex.def)             Requested size: 371.30594pt x 209.1498pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./imgs/newrelic_load.png>]
-<imgs/day_night_con.png, id=461, 364.17305pt x 213.42235pt>
+[19 <./imgs/seq_req_trackers.png (PNG copy)>]
+<imgs/day_night_con.png, id=441, 364.17305pt x 213.42235pt>
 File: imgs/day_night_con.png Graphic file (type png)
 
 <use imgs/day_night_con.png>
-Package pdftex.def Info: imgs/day_night_con.png used on input line 149.
+Package pdftex.def Info: imgs/day_night_con.png used on input line 153.
 (pdftex.def)             Requested size: 371.30594pt x 217.60974pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <./imgs/consistency.png (PNG copy)>]
-<imgs/webpagetest_old_sydney.png, id=470, 463.9734pt x 554.5518pt>
+ [20 <./imgs/con_req100.png (PNG copy)>]
+<imgs/webpagetest_old_sydney.png, id=448, 463.9734pt x 554.5518pt>
 File: imgs/webpagetest_old_sydney.png Graphic file (type png)
 
 <use imgs/webpagetest_old_sydney.png>
-Package pdftex.def Info: imgs/webpagetest_old_sydney.png used on input line 162
+Package pdftex.def Info: imgs/webpagetest_old_sydney.png used on input line 166
 .
 (pdftex.def)             Requested size: 371.30594pt x 443.79436pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./imgs/day_night_con.png (PNG copy)>] [23 <./imgs/webpagetest_old_sydney.p
-ng>] [24]) (./chapters/improvements.tex [25]
+[21 <./imgs/dist_con100.png (PNG copy)>] [22 <./imgs/comparison_mean_values.png
+ (PNG copy)> <./imgs/newrelic_load.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./imgs/consistency.png (PNG copy)>] [24 <./imgs/day_night_con.png (PNG co
+py)>])
+[25 <./imgs/webpagetest_old_sydney.png>] (./chapters/improvements.tex [26]
 Chapter 5.
-[26
+[27
 
-]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 12.
-
-
-LaTeX Warning: Reference `browserProcessing' on page 27 undefined on input line
- 22.
-
-[27]) (./chapters/conclusion.tex [28] [29]
+] [28]) (./chapters/conclusion.tex [29] [30]
 Chapter 6.
-[30
+[31
 
-]) (./structure/bibliography.tex (./thesis.bbl [31])) [32
+]) (./structure/bibliography.tex (./thesis.bbl [32])) [33
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
@@ -1428,13 +1446,10 @@ Package rerunfilecheck Warning: File `thesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 427E3869D2B7C6369ABEA59EEC1FD61E;2523
-(rerunfilecheck)             After:  E8A9F9249DD1BBAEB62AFF5AE6FFD0A9;2522.
+(rerunfilecheck)             Before: 84B280C7AA11EB21A783EE048303C22C;2553
+(rerunfilecheck)             After:  2CBFCE660FD049D7784C32ACABBF6D17;2553.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1442,111 +1457,30 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 24059 strings out of 493090
- 460692 string characters out of 6134868
- 723988 words of memory out of 5000000
- 26846 multiletter control sequences out of 15000+600000
+ 24082 strings out of 493090
+ 461070 string characters out of 6134868
+ 684340 words of memory out of 5000000
+ 26894 multiletter control sequences out of 15000+600000
  36747 words of font info for 73 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 66i,18n,67p,3051b,1818s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.34} has been referenced but does no
-t exist, replaced by a fixed one
+ 66i,18n,67p,4216b,1162s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{chapter*.108} has been referenced but does not ex
+ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{table.caption.16} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.57} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.55} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.53} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.45} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.40} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.25} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.14} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter*.106} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.105} has been referenced but does not exist
+pdfTeX warning (dest): name{chapter.107} has been referenced but does not exist
 , replaced by a fixed one
+
+pdfTeX warning (dest): name{section.90} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.89} has been referenced but does not exist,
+ replaced by a fixed one
 
 pdfTeX warning (dest): name{section.88} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{section.80} has been referenced but does not exist,
+pdfTeX warning (dest): name{chapter.81} has been referenced but does not exist,
  replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.79} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.58} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.56} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.54} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.46} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.41} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.38} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.35} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.32} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.30} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.29} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.26} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.24} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.23} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.22} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.20} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.15} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.13} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.9} has been referenced but does not exist, 
-replaced by a fixed one
 
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
@@ -1562,10 +1496,10 @@ xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on thesis.pdf (41 pages, 1162896 bytes).
+Output written on thesis.pdf (42 pages, 4320194 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 573 compressed objects within 6 object streams
- 189 named destinations out of 1000 (max. 500000)
- 368 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 542 compressed objects within 6 object streams
+ 159 named destinations out of 1000 (max. 500000)
+ 373 words of extra memory for PDF output out of 10000 (max. 10000000)
 
