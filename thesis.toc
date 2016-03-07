@@ -27,10 +27,10 @@
 \contentsline {subsection}{\numberline {4.3.4}Performance regarding daytime}{20}{subsection.56}
 \contentsline {section}{\numberline {4.4}Measure Browser Processing}{21}{section.58}
 \contentsline {section}{\numberline {4.5}Utilization measurements}{24}{section.60}
-\contentsline {chapter}{\numberline {5}Suggested Improvements}{27}{chapter.74}
-\contentsline {section}{\numberline {5.1}Content Delivery Networks (CDN)}{27}{section.75}
-\contentsline {section}{\numberline {5.2}Loading of Assets and Caching}{28}{section.81}
-\contentsline {section}{\numberline {5.3}Compression}{28}{section.82}
-\contentsline {section}{\numberline {5.4}Language and Redirection}{29}{section.83}
-\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{31}{chapter.100}
-\contentsline {chapter}{\nonumberline Bibliography}{33}{chapter*.101}
+\contentsline {chapter}{\numberline {5}Suggested Improvements}{27}{chapter.81}
+\contentsline {section}{\numberline {5.1}Content Delivery Networks (CDN)}{27}{section.82}
+\contentsline {section}{\numberline {5.2}Loading of Assets and Caching}{28}{section.88}
+\contentsline {section}{\numberline {5.3}Compression}{28}{section.89}
+\contentsline {section}{\numberline {5.4}Language and Redirection}{29}{section.90}
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{31}{chapter.107}
+\contentsline {chapter}{\nonumberline Bibliography}{33}{chapter*.108}

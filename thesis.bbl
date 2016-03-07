@@ -3,9 +3,11 @@
 \bibitem{Chang_2008}
 Patrick Chang.
 \newblock Fundamentals of http.
+\newblock F5 Networks, Inc., 2008.
 
 \bibitem{GoogleDev}
 Ilya Grigorik.
+\newblock Performance optimization in browser processing; google developers.
 
 \bibitem{Grigorik_2013}
 Ilya Grigorik.
@@ -38,6 +40,7 @@ Daniel Menasce et~al.
 
 \bibitem{NewRelic_Load}
 New Relic.
+\newblock Timeline of a page load.
 
 \bibitem{Google_2009}
 Harsha V.~Madhyastha Rupa~Krishnan et~al.
